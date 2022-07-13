@@ -1,0 +1,4 @@
+import pandas as pd
+import numpy as np
+np.arange(10)
+df = np.arange(10)
