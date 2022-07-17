@@ -1,2 +1,13 @@
 df1 = pd.df(np.arange(10).index(1,5))
-df1
+df1#for lock the dataframe password
+import os 
+a = input("Enter the username : ")
+if(a == AyushShriwastav):
+print(" ")
+else:
+print("Username not found")
+b = input(" Enter the Password: ")
+if(b == Ayush123):
+print(" ")
+else:
+print("Passoward does not match")
